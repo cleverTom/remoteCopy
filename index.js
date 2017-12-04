@@ -3,3 +3,4 @@ var a = 20;
 var b = 30;
 console.log(b);
 var c = "hello,man";
+console.log(c);
