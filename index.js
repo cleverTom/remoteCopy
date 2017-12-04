@@ -6,3 +6,4 @@ var c = "hello,man";
 console.log(c);
 var d = [1,2,3,4,5];
 console.log(d);
+var e = {a:1,b:2};
