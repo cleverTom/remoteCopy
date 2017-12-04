@@ -12,3 +12,4 @@ console.log("我是test03的修改");
 console.log("主分支第一次修改");
 console.log("主分支第二次修改");
 console.log("我是rebase分支的第一次修改");
+console.log("我是rebase分支的第二次修改");
