@@ -3,3 +3,9 @@ div {
     height: 100px;
     background-color: red;
 }
+p{
+    margin: 0;
+    padding: 0;
+    color: #ccc;
+}
+ 
