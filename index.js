@@ -4,7 +4,7 @@ var b = 30;
 console.log(b);
 var c = "hello,man";
 console.log(c);
-var d = [1,2,3,4,5];
+var d = [1,2,3,4,5,7];
 console.log(d);
 console.log("我是最新的修改");
 console.log("我是test02的修改");
